@@ -1,0 +1,30 @@
+C:\Users\UNIP\Desktop\C#\obj\Debug\net7.0\C#.csproj.AssemblyReference.cache
+C:\Users\UNIP\Desktop\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIP\Desktop\C#\bin\Debug\net7.0\C#.exe
+C:\Users\UNIP\Desktop\C#\bin\Debug\net7.0\C#.deps.json
+C:\Users\UNIP\Desktop\C#\bin\Debug\net7.0\C#.runtimeconfig.json
+C:\Users\UNIP\Desktop\C#\bin\Debug\net7.0\C#.dll
+C:\Users\UNIP\Desktop\C#\bin\Debug\net7.0\C#.pdb
+C:\Users\UNIP\Desktop\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+C:\Users\UNIP\Desktop\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+C:\Users\UNIP\Desktop\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\UNIP\Desktop\C#\obj\Debug\net7.0\C#.dll
+C:\Users\UNIP\Desktop\C#\obj\Debug\net7.0\refint\C#.dll
+C:\Users\UNIP\Desktop\C#\obj\Debug\net7.0\C#.pdb
+C:\Users\UNIP\Desktop\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
+C:\Users\UNIP\Desktop\C#\obj\Debug\net7.0\ref\C#.dll
+C:\Users\Ishvar\OneDrive\Área de Trabalho\DEV\C#\bin\Debug\net7.0\C#.exe
+C:\Users\Ishvar\OneDrive\Área de Trabalho\DEV\C#\bin\Debug\net7.0\C#.deps.json
+C:\Users\Ishvar\OneDrive\Área de Trabalho\DEV\C#\bin\Debug\net7.0\C#.runtimeconfig.json
+C:\Users\Ishvar\OneDrive\Área de Trabalho\DEV\C#\bin\Debug\net7.0\C#.dll
+C:\Users\Ishvar\OneDrive\Área de Trabalho\DEV\C#\bin\Debug\net7.0\C#.pdb
+C:\Users\Ishvar\OneDrive\Área de Trabalho\DEV\C#\obj\Debug\net7.0\C#.csproj.AssemblyReference.cache
+C:\Users\Ishvar\OneDrive\Área de Trabalho\DEV\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishvar\OneDrive\Área de Trabalho\DEV\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+C:\Users\Ishvar\OneDrive\Área de Trabalho\DEV\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+C:\Users\Ishvar\OneDrive\Área de Trabalho\DEV\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\Ishvar\OneDrive\Área de Trabalho\DEV\C#\obj\Debug\net7.0\C#.dll
+C:\Users\Ishvar\OneDrive\Área de Trabalho\DEV\C#\obj\Debug\net7.0\refint\C#.dll
+C:\Users\Ishvar\OneDrive\Área de Trabalho\DEV\C#\obj\Debug\net7.0\C#.pdb
+C:\Users\Ishvar\OneDrive\Área de Trabalho\DEV\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
+C:\Users\Ishvar\OneDrive\Área de Trabalho\DEV\C#\obj\Debug\net7.0\ref\C#.dll
