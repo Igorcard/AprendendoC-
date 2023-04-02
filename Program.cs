@@ -37,7 +37,8 @@ namespace Exercício08
                 clientes.Add(novo_cliente);
             }
             //Programa
-            clientes[1].Depositar(50);
+            Console.WriteLine("Deseja depositar quanto? ");
+            clientes[1].Depositar(int.Parse(Console.ReadLine()));
             //Eu fico com 2050;
             clientes[1].Conta.imprimir_extrato();
         }
