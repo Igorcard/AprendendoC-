@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
 
-namespace Exercício08{
-    
+namespace Banco
+{
     public class Cliente
     {
         public string Nome {get; set;}

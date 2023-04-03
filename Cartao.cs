@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 
-namespace Exercício08{
+namespace Banco
+{
 public class Cartao
     {
         public long Numero {get; set;}
